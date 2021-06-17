@@ -1,0 +1,45 @@
+.number0 {
+    text-align: center;
+    border-style: solid;
+    border-radius: 10px;
+    height: 300px;
+    margin-top:100px;
+    margin-bottom: 100px;
+    margin-right: 700px;
+    margin-left: 700px;
+}
+.number1 {
+    text-align: center;
+    width: 335px;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+.number2 {
+    text-align: center;
+    width: 335px;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+.number3 {
+    text-align: center;
+    width: 335px;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+.number4 {
+    text-align: center;
+    width: 335px;
+    margin: 20px auto 20px auto;
+    font-size: 20px;
+}
+.number5 {
+    text-align: center;
+    width: 335px;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+.title {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    width: 335px;
+}
